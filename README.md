@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=drb101005&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Dev Quote
+### ✍️ Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
