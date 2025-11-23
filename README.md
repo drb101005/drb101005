@@ -13,18 +13,13 @@
 </div>
 
 <!-- Profile Views & Followers -->
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=drb101005&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/drb101005?style=for-the-badge&color=8b5cf6&labelColor=1e1b4b)](https://github.com/drb101005)
 
-</div>
 
 ---
 
 ## 🌌 About The Digital Architect
 
-<div align="center">
+<div align="left">
 
 ### 👋 Hey there! I'm Dhruv Bandikatte
 
