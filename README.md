@@ -38,7 +38,6 @@ I design and ship systems at the intersection of AI, automation, and real-time e
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=4dabf7&labelColor=0d1117)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f59e0b&labelColor=0d1117)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=7c3aed&labelColor=0d1117)
-![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=f97316&labelColor=0d1117)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=e11d48&labelColor=0d1117)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=06b6d4&labelColor=0d1117)
 
